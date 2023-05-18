@@ -2,6 +2,8 @@
 
 42 school's first project, <em>libft</em>, is about learning how the usual `standard functions` of C programming work. You will do the coding of the functions and also learn about `library` and `Makefile`.
 
+	🤓 These functions will be used in future projects, so more important than deliveringt is understanding it! 🙃
+
 For detailed information, refer to the [**subject of this project**](https://github.com/yasminefontenele/42_Libft/blob/main/Libft.pdf).
 
 ##
@@ -54,7 +56,6 @@ Functions to write to a file descriptor
 - ft_putstr_fd  - output string to given file.
 - ft_putendl_fd - output string to given file with newline.
 - ft_putnbr_fd  - output integer to given file.
-
 				
 ### Bonus Functions
 The bonus functions of libft deal with list manipulation.
