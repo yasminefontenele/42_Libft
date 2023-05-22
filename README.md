@@ -2,7 +2,7 @@
 
 42 school's first project, <em>libft</em>, is about learning how the usual `standard functions` of C programming work. You will do the coding of the functions and also learn about `library` and `Makefile`.
 
-	🤓 These functions will be used in future projects, so more important than delivering is understanding it!🙃
+	🤓 These functions will be used in future projects, so more important than delivering is understanding it!
 
 For detailed information, refer to the [**subject of this project**](https://github.com/yasminefontenele/42_Libft/blob/main/Libft.pdf).
 
