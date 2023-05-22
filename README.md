@@ -2,10 +2,17 @@
 
 42 school's first project, <em>libft</em>, is about learning how the usual `standard functions` of C programming work. You will do the coding of the functions and also learn about `library` and `Makefile`.
 
-	🤓 These functions will be used in future projects,
-	so more important than deliveringt is understanding it! 🙃
+	🤓 These functions will be used in future projects, so more important than delivering is understanding it! 🙃
 
 For detailed information, refer to the [**subject of this project**](https://github.com/yasminefontenele/42_Libft/blob/main/Libft.pdf).
+
+##
+
+## Some tips ;)
+
+I had no programming background, so [**this playlist**](https://www.youtube.com/watch?v=ucupombJuUM&list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5) explaining data structures helped me a lot throughout the project.
+
+For conference, in addition to the main that I mad, I used [**francinette**](https://github.com/xicodomingues/francinette).
 
 ##
 
@@ -69,11 +76,3 @@ The bonus functions of libft deal with list manipulation.
 - ft_lstclear     - delete sequence of elements of list from a starting point.
 - ft_lstiter      - apply function to content of all list's elements.
 - ft_lstmap       - apply function to content of all list's elements into new list.
-
-##
-
-## Some tips ;)
-
-I had no programming background, so [**this playlist**](https://www.youtube.com/watch?v=ucupombJuUM&list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5) explaining data structures helped me a lot throughout the project.
-
-For conference, in addition to the main that I mad, I used [**francinette**](https://github.com/xicodomingues/francinette).
