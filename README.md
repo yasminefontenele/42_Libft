@@ -76,3 +76,6 @@ The bonus functions of libft deal with list manipulation.
 - ft_lstclear     - delete sequence of elements of list from a starting point.
 - ft_lstiter      - apply function to content of all list's elements.
 - ft_lstmap       - apply function to content of all list's elements into new list.
+
+## Tips
+- [**Basic structs**](https://www.inf.pucrs.br/~pinho/LaproI/Structs/Structs.htm)
